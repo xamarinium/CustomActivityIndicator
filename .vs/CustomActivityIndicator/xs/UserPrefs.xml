@@ -1,0 +1,11 @@
+﻿<Properties StartupConfiguration="{71F0147F-42C2-4BC2-AA9F-83CBCE2E0DA0}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.CustomActivityIndicator.Android PreferredExecutionTarget="Android.Nexus" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CustomActivityIndicator.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.78081962-9331-4F36-9DAE-5B87A01BF82A" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

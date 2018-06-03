@@ -712,11 +712,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator.iOS/CustomActivityIndicator.iOS.csproj",
+      "projectUniqueName": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator.iOS/CustomActivityIndicator.iOS.csproj",
       "projectName": "CustomActivityIndicator.iOS",
-      "projectPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator.iOS/CustomActivityIndicator.iOS.csproj",
+      "projectPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator.iOS/CustomActivityIndicator.iOS.csproj",
       "packagesPath": "/Users/andriykolodiychyk/.nuget/packages/",
-      "outputPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator.iOS/obj",
+      "outputPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator.iOS/obj",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/andriykolodiychyk/.config/NuGet/NuGet.Config"
@@ -731,8 +731,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator.csproj": {
-              "projectPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator.csproj"
+            "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator.csproj": {
+              "projectPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator.csproj"
             }
           }
         }

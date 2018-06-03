@@ -340,11 +340,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator.csproj",
+      "projectUniqueName": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator.csproj",
       "projectName": "CustomActivityIndicator",
-      "projectPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator.csproj",
+      "projectPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator.csproj",
       "packagesPath": "/Users/andriykolodiychyk/.nuget/packages/",
-      "outputPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator/obj",
+      "outputPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

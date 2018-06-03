@@ -1,0 +1,9 @@
+/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/bin/Debug/netstandard2.0/CustomActivityIndicator.deps.json
+/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/bin/Debug/netstandard2.0/CustomActivityIndicator.dll
+/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/bin/Debug/netstandard2.0/CustomActivityIndicator.pdb
+/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/obj/Debug/netstandard2.0/CustomActivityIndicator.csprojResolveAssemblyReference.cache
+/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/obj/Debug/netstandard2.0/CustomActivityIndicator.csproj.CoreCompileInputs.cache
+/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/obj/Debug/netstandard2.0/CustomActivityIndicator.AssemblyInfoInputs.cache
+/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/obj/Debug/netstandard2.0/CustomActivityIndicator.AssemblyInfo.cs
+/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/obj/Debug/netstandard2.0/CustomActivityIndicator.dll
+/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/obj/Debug/netstandard2.0/CustomActivityIndicator.pdb
