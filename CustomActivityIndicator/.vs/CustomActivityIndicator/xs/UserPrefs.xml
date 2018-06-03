@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{92D2F384-61DC-4AA3-AD97-F3797D130C7C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomActivityIndicator/MainPage.xaml">
+    <Files>
+      <File FileName="CustomActivityIndicator/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CustomActivityIndicator.Android PreferredExecutionTarget="Android.Nexus" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CustomActivityIndicator.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CustomActivityIndicator FirstBuild="True" />
+</Properties>
