@@ -759,7 +759,7 @@
       "projectName": "CustomActivityIndicator.Android",
       "projectPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator.Android/CustomActivityIndicator.Android.csproj",
       "packagesPath": "/Users/andriykolodiychyk/.nuget/packages/",
-      "outputPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator.Android/obj",
+      "outputPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator.Android/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/andriykolodiychyk/.config/NuGet/NuGet.Config"
@@ -784,29 +784,29 @@
     "frameworks": {
       "monoandroid81": {
         "dependencies": {
-          "Xamarin.Forms": {
-            "target": "Package",
-            "version": "3.0.0.446417"
-          },
           "Xamarin.Android.Support.Design": {
             "target": "Package",
-            "version": "27.0.2"
-          },
-          "Xamarin.Android.Support.v7.AppCompat": {
-            "target": "Package",
-            "version": "27.0.2"
+            "version": "[27.0.2, )"
           },
           "Xamarin.Android.Support.v4": {
             "target": "Package",
-            "version": "27.0.2"
+            "version": "[27.0.2, )"
+          },
+          "Xamarin.Android.Support.v7.AppCompat": {
+            "target": "Package",
+            "version": "[27.0.2, )"
           },
           "Xamarin.Android.Support.v7.CardView": {
             "target": "Package",
-            "version": "27.0.2"
+            "version": "[27.0.2, )"
           },
           "Xamarin.Android.Support.v7.MediaRouter": {
             "target": "Package",
-            "version": "27.0.2"
+            "version": "[27.0.2, )"
+          },
+          "Xamarin.Forms": {
+            "target": "Package",
+            "version": "[3.0.0.446417, )"
           }
         }
       }

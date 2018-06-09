@@ -82,6 +82,14 @@
     <AndroidResource Include="Resources\mipmap-xxhdpi\launcher_foreground.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\Icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\reload.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\reload.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\reload.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\reload.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\rotate.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\rotate.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\rotate.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\rotate.png" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />

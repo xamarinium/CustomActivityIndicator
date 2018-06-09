@@ -1,7 +1,11 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:CustomActivityIndicator" x:Class="CustomActivityIndicator.MainPage">
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:customActivityIndicator="clr-namespace:CustomActivityIndicator;assembly=CustomActivityIndicator"
+             x:Class="CustomActivityIndicator.MainPage">
+    <StackLayout VerticalOptions="Center">
+        <customActivityIndicator:CustomActivityIndicator x:Name="Indicator" WidthRequest="50" HeightRequest="50" />
+        <Button x:Name="RunButton" Clicked="Handle_Clicked" HeightRequest="50" Text="Run" />
     </StackLayout>
 </ContentPage>

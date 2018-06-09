@@ -716,7 +716,7 @@
       "projectName": "CustomActivityIndicator.iOS",
       "projectPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator.iOS/CustomActivityIndicator.iOS.csproj",
       "packagesPath": "/Users/andriykolodiychyk/.nuget/packages/",
-      "outputPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator.iOS/obj",
+      "outputPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator.iOS/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/andriykolodiychyk/.config/NuGet/NuGet.Config"
@@ -743,7 +743,7 @@
         "dependencies": {
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "3.0.0.446417"
+            "version": "[3.0.0.446417, )"
           }
         }
       }

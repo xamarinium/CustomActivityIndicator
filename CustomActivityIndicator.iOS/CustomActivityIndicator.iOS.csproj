@@ -156,4 +156,12 @@
       <Name>CustomActivityIndicator</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\reload.png" />
+    <BundleResource Include="Resources\reload%402x.png" />
+    <BundleResource Include="Resources\reload%403x.png" />
+    <BundleResource Include="Resources\rotate.png" />
+    <BundleResource Include="Resources\rotate%402x.png" />
+    <BundleResource Include="Resources\rotate%403x.png" />
+  </ItemGroup>
 </Project>

@@ -344,7 +344,7 @@
       "projectName": "CustomActivityIndicator",
       "projectPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/CustomActivityIndicator.csproj",
       "packagesPath": "/Users/andriykolodiychyk/.nuget/packages/",
-      "outputPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/obj",
+      "outputPath": "/Users/andriykolodiychyk/Projects/CustomActivityIndicator/CustomActivityIndicator/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -376,12 +376,12 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.1",
+            "version": "[2.0.1, )",
             "autoReferenced": true
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "3.0.0.446417"
+            "version": "[3.0.0.446417, )"
           }
         },
         "imports": [
